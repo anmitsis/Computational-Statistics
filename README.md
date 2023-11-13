@@ -1,5 +1,5 @@
 # Computational-Statistics
-This project was part of the Computational Statistics and Stochastic Optimisation class in my university. The tools I used was R for coding and LaTeX for the text synthesis.
+This project was part of the Computational Statistics and Stochastic Optimisation class in my university. The tools I used was R for coding and LaTeX for the text synthesis. The pdf file is in Greek.
 
 ## Excersice 1
 The first excersice requires to understand the monte carlo estimation method and estimate the volume of a d-dimentional sphere as well as the Metropolis-Hastings (MCMC) algorithm for the same task.
